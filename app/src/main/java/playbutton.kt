@@ -8,4 +8,10 @@ class playbutton {
     fun stop() {
         println("Stopped")
     }
+    fun rewind() {
+        println("Rewinding")
+    }
+    fun fastForward() {
+        println("Fast Forwarding")
+    }
 }
